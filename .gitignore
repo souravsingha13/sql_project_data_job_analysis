@@ -10,8 +10,7 @@ Thumbs.db
 desktop.ini
 
 # Editor
-.vscode/*
-!.vscode/settings.json
+/.vscode/
 *.swp
 *~
 
