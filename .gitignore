@@ -1,0 +1,21 @@
+# Dataset CSVs (large; job_postings_fact.csv exceeds GitHub's 100 MB file limit)
+csv_files/*.csv
+
+# SQLTools scratch sessions
+*.session.sql
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+*.swp
+*~
+
+# Environment / secrets
+.env
+.env.*
+.pgpass
